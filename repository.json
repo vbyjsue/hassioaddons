@@ -1,5 +1,5 @@
 {
-name: "conbee test",
-url: "https://github.com/vbyjsue/hassioaddons",
-maintainer: "HomeAssistant <info@home-assistant.io>"
+  "name": "conbee test",
+  "url": "https://github.com/vbyjsue/hassioaddons",
+  "maintainer": "HomeAssistant <info@home-assistant.io>"
 }
